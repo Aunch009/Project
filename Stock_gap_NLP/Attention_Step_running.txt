@@ -1,0 +1,20 @@
+Please run by step
+1. Creat file
+"D:\Program_code\python\Code_test\stock_gap_NLP_zip_clean\yahoo_finance"
+"D:\Program_code\python\Code_test\stock_gap_NLP_zip_clean\ACC_Add"
+"D:\Program_code\python\Code_test\stock_gap_NLP_zip_clean\classification_report"
+"D:\Program_code\python\Code_test\stock_gap_NLP_zip_clean\classification_report_combine"
+"D:\Program_code\python\Code_test\stock_gap_NLP_zip_clean\Currentdate_csr"
+"D:\Program_code\python\Code_test\stock_gap_NLP_zip_clean\model"
+"D:\Program_code\python\Code_test\stock_gap_NLP_zip_clean\model_select"
+"D:\Program_code\python\Code_test\stock_gap_NLP_zip_clean\Pickle"
+"D:\Program_code\python\Code_test\stock_gap_NLP_zip_clean\result"
+"D:\Program_code\python\Code_test\stock_gap_NLP_zip_clean\stock_link"
+"D:\Program_code\python\Code_test\stock_gap_NLP_zip_clean\Token"
+"D:\Program_code\python\Code_test\stock_gap_NLP_zip_clean\Token_time"
+"D:\Program_code\python\Code_test\stock_gap_NLP_zip_clean\word_index"
+"D:\Program_code\python\Code_test\stock_gap_NLP_zip_clean\word_TFIDF"
+2.Run by
+1.main_test -3.py
+2.test.py
+3.test _deploy_loop_3pre.py
