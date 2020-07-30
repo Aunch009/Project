@@ -294,9 +294,9 @@ if __name__ == '__main__':
             lst['result']=result
             print('lst:',lst)
             store.append(lst)
-        frame4 = pd.concat(store, axis=0, ignore_index=True)
+    frame4 = pd.concat(store, axis=0, ignore_index=True)
         # frame3=frame2.sort_values('score', ascending=False).reset_index()
-        frame4.to_csv('D:\Program_code\python\Code_test\stock_gap_NLP\\result\\'+f'{tag}_pre.csv')
+    frame4.to_csv('D:\Program_code\python\Code_test\stock_gap_NLP\\result\\'+f'{tag}_pre.csv')
           
         
             
