@@ -1,5 +1,0 @@
-final_program
-change floder name from "stock_gap_NLP_zip" to "stock_gap_NLP" because of link path
-1.main_test -3.py
-2.test.py
-3.test _deploy_loop_3pre.py
